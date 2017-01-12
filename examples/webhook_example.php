@@ -28,14 +28,14 @@ ini_set('error_log', 'error.log');
 $PROJECT_DIR = __DIR__ . '/src/';
 $TEMP_DIR = __DIR__ . '/tmp/';
 
-$API_KEY = '';
-$BOT_USERNAME = '';
+$API_KEY = '315323877:AAFM9oBSmqRmfnsa_Mx7riBgsdHONWeeltM';
+$BOT_USERNAME = 'dsdsssbot';
 
 $MYSQL_CREDENTIALS = [
-    'host'     => 'localhost',
-    'user'     => '',
-    'password' => '',
-    'database' => '',
+    'host'     => 'mysql.1freehosting.com',
+    'user'     => 'u942960907_super',
+    'password' => 'm1377129',
+    'database' => 'u942960907_super',
 ];
 
 $QUERY_STRING_AUTH = '';
